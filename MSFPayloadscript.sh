@@ -23,7 +23,7 @@ cat << "EOF"
      ======
    /       \ __
    l        l\ \
-   l        l/ /   -D4RKN0X-
+   l        l/ /   -D4RKX0-
    l  l l   l /
    \ ml lm /_/
 
