@@ -4,7 +4,7 @@ Simple Bash Script to run msfvenom payloads queckly
 
 ## Demo
 
-# <img alt="MSFPS" src="https://media.giphy.com/media/5kFzbCNZbEiL5jT5gx/giphy.gif">
+<img alt="MSFPS" src="https://media.giphy.com/media/5kFzbCNZbEiL5jT5gx/giphy.gif">
 
 ## Prerequisites
 
