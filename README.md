@@ -1,6 +1,6 @@
 # MSFPayloadScript v1.0
 
-Simple Bash Script to generate msfvenom payloads queckly
+Simple Bash Script to generate msfvenom payloads quickly
 
 ## Demo
 
